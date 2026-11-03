@@ -1,0 +1,2 @@
+{"name":"夜行列車の車窓","short_name":"夜行列車","description":"夜行列車の窓から、眠る町や踏切、トンネル、海辺の漁火を眺める鑑賞用アプリ。","start_url":"./","scope":"./","display":"fullscreen","orientation":"any","background_color":"#05070e","theme_color":"#05070e","lang":"ja",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png"}]}
